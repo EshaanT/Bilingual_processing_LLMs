@@ -1,7 +1,5 @@
 # Bilingual_processing_LLMs
 
-![Cognate vs Interlingual Homomorphs](https://github.com/EshaanT/Bilingual_processing_LLMs/figures/cognates_example.pdf)
-
 ## Dataset
 
 1. Words and their meaning
