@@ -1,10 +1,10 @@
 # Bilingual_processing_LLMs
 
-![Experiment Results](figures/cognates_example.pdf)
+![Cognate vs Interlingual Homomorphs](https://github.com/EshaanT/Bilingual_processing_LLMs/figures/cognates_example.pdf)
 
 ## Dataset
 
-1. Words and thier meaning
+1. Words and their meaning
     The words along with their meanings can be found in the `data` folder in the file `en_es_dataset.csv`, `en_fr_dataset.csv`, and `en_de_dataset.csv`.
 
 2. Semantic Constraint Sentences
